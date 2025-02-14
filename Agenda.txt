@@ -1,0 +1,65 @@
+Orders Data
+
+
+Order Patterns:
+What is the most popular time of day for placing orders (morning, afternoon, evening)?
+What are the peak ordering days of the week or month?
+How does the average order value vary across different time periods?
+
+Top Dishes/Items:
+Which dishes or cuisines are ordered the most frequently?
+What is the average cost of the most popular items?
+
+Order Locations:
+Which cities or areas have the highest number of orders?
+How does the average order value compare across different cities/regions?
+
+
+Customers Data
+
+
+Customer Segmentation:
+Can you segment customers based on their order frequency or average order value?
+What is the distribution of new vs. returning customers?
+
+Demographics:
+If demographic data is available, how do customer preferences vary by age, gender, or location?
+
+Loyalty Trends:
+How many customers are repeat customers, and how often do they return?
+What is the average lifetime value (LTV) of a customer?
+
+
+Restaurants Data
+
+
+Restaurant Insights:
+Which restaurants have the highest number of orders?
+How do average ratings correlate with the number of orders or reviews?
+
+Cuisine Trends:
+What are the most popular cuisines served by restaurants?
+How do prices vary by cuisine or restaurant type?
+
+Restaurant Locations:
+Which areas have the highest density of restaurants?
+How do restaurants’ performance metrics (ratings, reviews, orders) vary by location?
+
+
+Combining the Datasets
+
+Customer-Restaurant Interaction:
+What are the most popular restaurant-customer pairs?
+Are there trends in customer loyalty toward specific restaurants or cuisines?
+
+Delivery Times:
+What is the average delivery time, and how does it vary by location, restaurant, or time of day?
+
+Price Sensitivity:
+How does order frequency or volume vary with discounts or promotions offered by restaurants?
+
+Order Trends by Cuisine:
+Are there seasonal trends in the popularity of certain cuisines?
+
+Restaurant Performance:
+Which restaurants are the top performers based on customer ratings and order volume?
